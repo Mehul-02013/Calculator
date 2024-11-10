@@ -1,0 +1,52 @@
+/*_______________________________________________      */
+*{
+	margin : 1px;
+	padding: 1px;
+	font-family: Verdana;
+	border : border-box;
+}
+
+.navbar 
+{
+	height: 60px;
+	background-color: #0f1111;
+	color : #FFFFFF;
+	display : flex;
+	align-items: center;
+}
+
+#amzImg
+{
+  height: 50px;
+  width: 70px;
+	background-image: url("amzLogo.png");
+  background-size: cover;
+ 
+}
+
+.border
+{
+	border: 2px solid transparent;
+}
+
+.border:hover{
+	border: 1px solid #D9D9D9;
+}
+
+#delivery
+{
+   font-size: .7rem;	
+   padding-left: 10px;
+}
+
+#nation
+{
+	 font-size: 1rem;
+}
+
+.address-logo{
+	display: flex;
+}
+
+
+
