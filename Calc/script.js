@@ -30,7 +30,7 @@ btn.forEach((el) => {
       {
         disOnScreen(val.replaceAll("undefined"));
       }
-      
+        
    })
 })
 
